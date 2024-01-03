@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "BoAt Smart watch",
+      "image": "https://d28i4xct2kl5lp.cloudfront.net/product_images/None_4a65419c-daf6-4a43-8e9e-ef1399aad156.jpg",
+      "price": 2500
+    },
+    {
+      "id": 2,
+      "title": "Dell Inspiron laptop",
+      "image": "https://th.bing.com/th/id/OIP.w2uGKQiq9-m8zZysZ1PupwHaHa?pid=ImgDet&rs=1",
+      "price": 45000
+    },
+    {
+      "id": 3,
+      "title": "JBL HeadPhones",
+      "image": "https://rukminim1.flixcart.com/image/1408/1408/jb2j98w0/headphone/g/w/g/boat-bassheads-900-original-imafyg5mfhzqyhhz.jpeg?q=90",
+      "price": 16000
+    },
+    {
+      "id": 4,
+      "title": "samsung Tv",
+      "image": {},
+      "price": "10000"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode json-server --watch db.json --port 4000 "
+  }
+}
